@@ -1,0 +1,30 @@
+.grid }
+	border: 2px blue solid;
+	width:400px;
+	height:500px;
+	display:grid;
+	grid-template-collums: 100px 50% 200px;
+	drid-template-rows:40% 50% 50px;
+}
+.box }
+	background-color: blue;
+	color: black; 
+	border-radius: 5px;
+	border: 2px dodgerblue solid;
+	}	
+	h1 {
+  border: 2px solid #ffb8fa;
+  background-color: #72b2f7;
+}
+body {
+  background-color: #75D3D2 ;
+} 
+a {
+  font-size: 40px;
+  color: #3E3C3D;
+ }
+ div.a {
+  font-size: 800%;
+  font-family: "Impact";
+  color: #6A706F;
+  } 
